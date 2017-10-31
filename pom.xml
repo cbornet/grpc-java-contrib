@@ -57,6 +57,11 @@
         <module>rxgrpc/rxgrpc-test</module>
         <module>rxgrpc/rxgrpc-stub</module>
         <module>rxgrpc/rxgrpc-tck</module>
+        <module>reactor-grpc/reactor-grpc</module>
+        <module>reactor-grpc/reactor-grpc-stub</module>
+        <module>reactor-grpc/reactor-grpc-test</module>
+        <module>reactor-grpc/reactor-grpc-tck</module>
+
     </modules>
 
     <properties>
