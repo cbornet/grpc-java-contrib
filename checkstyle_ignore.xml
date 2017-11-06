@@ -14,5 +14,4 @@
 <suppressions>
     <suppress files="/generated-sources/" checks="."/>
     <suppress files="/target/" checks="."/>
-    <suppress files="src/main/java/com/salesforce/reactorgrpc/stub/LambdaSubscriber.java" checks="."/>
 </suppressions>
